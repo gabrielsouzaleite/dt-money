@@ -1,0 +1,20 @@
+{
+  "transactions": [
+    {
+      "description": "Desenvolvimento de APP",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-12-11T18:34:28.352Z",
+      "id": 1
+    },
+    {
+      "description": "Hamburger",
+      "price": 101,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-12-11T18:34:47.075Z",
+      "id": 2
+    }
+  ]
+}
